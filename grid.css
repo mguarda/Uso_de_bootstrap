@@ -1,0 +1,9 @@
+.contenedor {
+  background-color: #ddd;
+  padding: 1em;
+  border: 2px solid #808080;
+}
+.col {
+  background-color: #aaa;
+  border: 2px solid #808080;
+}
